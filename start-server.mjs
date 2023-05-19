@@ -1,4 +1,4 @@
-import dotenv from 'dotenv'
+htmlimport dotenv from 'dotenv'
 import './lib/feature-flags.js'
 import './lib/check-node-version.js'
 import './lib/handle-exceptions.js'
